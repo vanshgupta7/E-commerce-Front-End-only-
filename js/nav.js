@@ -19,7 +19,7 @@ const Nav = () => {
             </div>
         </div>
         <ul class="links-container">
-            <li class="link-item"><a href="home.html" class="link">home</a></li>
+            <li class="link-item"><a href="index.html" class="link">home</a></li>
             <li class="link-item"><a href="#" class="link">clothing</a></li>
             <li class="link-item"><a href="#" class="link">electronics</a></li>
             <li class="link-item"><a href="#" class="link">books</a></li>
